@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    display: block;
+    padding: 8px;
+    margin: auto;
+    width: 400px; 
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.item {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px;
+}
